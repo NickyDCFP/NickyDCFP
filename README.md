@@ -1,7 +1,7 @@
 <p align="center">
   <img src="inoguitarsolo.gif" height="178">
   <img src="megalo.gif" width=400>
-  <img src="inoguitarsolo.gif" height="178" style="transform: scaleX(-1);">
+  <img src="inoguitarsolo.gif" height="178">
 </p>
   
 Hi there!
@@ -12,3 +12,5 @@ I'm Nicky Kriplani (he/him), a CS student at NYU Tandon. I've been coding since 
 If you'd like to gain a sense of how I think, here's a [cybersecurity explainer video](https://www.youtube.com/watch?v=Mdeu__zgEUo) I made!
 
 I'm still working on migrating the rest of my past projects onto Github, but feel free to take a look around; have a nice day!
+
+![Nicky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nickydcfp&show_icons=true&theme=tokyonight)
