@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="inoguitarsolo.gif" height="267">
-  <img src="megalo.gif" width=600>
-  <img src="inoguitarsolo.gif" height="267" style="transform: scaleX(-1);">
+  <img src="inoguitarsolo.gif" height="178">
+  <img src="megalo.gif" width=400>
+  <img src="inoguitarsolo.gif" height="178" style="transform: scaleX(-1);">
 </p>
   
 Hi there!
