@@ -1,11 +1,4 @@
-<p align="center">
-  <img src="inoguitarsolo.gif" height="178">
-  <img src="megalo.gif" width=400>
-  <img src="inoguitarsolo.gif" height="178">
-</p>
-  
-Hi there!
----
+# <img src="inoguitarsolo.gif" height="250"> Welcome to my Github! <img src="inoguitarsolo.gif" height="250">
 
 I'm Nicky Kriplani (he/him), a computer science student at NYU Tandon. I've been coding since I was 8 and continue to learn more every day! In particular, I'm looking to learn about cybersecurity, game development, and machine learning, but I'm happy to dip my feet into any topic.
 
