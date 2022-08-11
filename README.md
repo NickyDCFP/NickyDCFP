@@ -1,9 +1,9 @@
 # <img src="inoguitarsolo.gif" height="220"> Welcome to my Github! <img src="inoguitarsolo.gif" height="220">
 
-I'm Nicky Kriplani (he/him), a computer science student at NYU Tandon. I've been coding since I was 8 and continue to learn more every day! In particular, I'm looking to learn about cybersecurity, game development, and machine learning, but I'm happy to dip my feet into any topic.
+I'm Nicky Kriplani (he/him), a computer science student at NYU Tandon. I've been coding since I was 8 and continue to learn more every day! Cybersecurity, game development, and machine learning will all instantly catch my attention and interest, but I'm happy to dig into any topic.
 
-If you'd like to gain a sense of how I think, here's a [cybersecurity explainer video](https://www.youtube.com/watch?v=Mdeu__zgEUo) I made!
+If you'd like to gain a sense of how I think, here's a [cybersecurity explainer video](https://www.youtube.com/watch?v=Mdeu__zgEUo) I made, which revolves around Github Copilot, a machine-learning-based code autocompletion tool. The video focuses on the security vulnerabilities that can arise from automatically generating code and how we could potentially prevent them, all with the intention to break these complex topics down into a simple, easily digestible format.
 
-I'm still working on migrating the rest of my past projects onto Github, but feel free to take a look around; have a nice day!
+There are, of course, also a few goodies sitting around my repositories, so feel free to take a look; have a nice day!
 
 ![NickyDCFP Github Stats](https://github-readme-stats.vercel.app/api?username=nickydcfp&show_icons=true&theme=tokyonight)
