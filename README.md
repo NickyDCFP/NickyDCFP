@@ -1,4 +1,4 @@
-# <img src="inoguitarsolo.gif" height="220"> Welcome to my Github! <img src="inoguitarsolo.gif" height="220">
+Welcome to my Github!
 
 I'm Nicky Kriplani (he/him), a computer science student at NYU Tandon and member of the OSIRIS Lab<img src="osirislab.png" height ="17">. I've been happily coding since I was 8 and continue to learn more every day! Cybersecurity and game development will both instantly catch my attention and interest, but I'm happy to dig into any topic.
 
